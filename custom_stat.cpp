@@ -89,5 +89,3 @@ int main(int argc, char* argv[]){
 //                 #define st_mtime st_mtim.tv_sec
 //                 #define st_ctime st_ctim.tv_sec
 //     };
-// Reference
-// https://nipunbatra.github.io/os2020/labs/#lab-3
